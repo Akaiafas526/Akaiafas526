@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/akaiafas526"><img src="https://api.daily.dev/devcards/492768f3c7f5487f99b586c78e0984ab.png?r=px1" width="400" alt="Andreas Kaiafas's Dev Card"/></a>
+
 <!--
 **Akaiafas526/Akaiafas526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
